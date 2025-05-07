@@ -1,0 +1,45 @@
+
+=== Multi Downloader NX 5.3.4 ===
+
+[ERROR] [ERROR] YAMLParseError: Invalid escape sequence \Users\run at line 2, column 14:
+
+mkvmerge: "C:\Users\runneradmin\Downloads\multi-downloader-nx-windows-x64-gui\m…
+             ^
+
+    at /snapshot/_builds/index.cjs
+    at _onError (/snapshot/_builds/index.cjs)
+    at parseCharCode (/snapshot/_builds/index.cjs)
+    at doubleQuotedValue (/snapshot/_builds/index.cjs)
+    at Object.resolveFlowScalar (/snapshot/_builds/index.cjs)
+    at Object.composeScalar (/snapshot/_builds/index.cjs)
+    at composeNode (/snapshot/_builds/index.cjs)
+    at Object.resolveBlockMap (/snapshot/_builds/index.cjs)
+    at resolveCollection (/snapshot/_builds/index.cjs)
+    at Object.composeCollection (/snapshot/_builds/index.cjs) {
+  code: 'BAD_DQ_ESCAPE',
+  pos: [ 63, 64 ],
+  linePos: [ { line: 2, col: 14 }, { line: 2, col: 15 } ]
+}
+USER: SeaKyuSee (stevendo49@yahoo.com)
+Your Country: GB
+
+[Z:G79H23Z0X] Good Bye, Dragon Life (Seasons: 1, EPs: 12) [SIMULCAST, SUB, DUB]
+  - Subtitles: en, es-419, es-ES, pt-BR, fr, de, ar, it, ru, zh-HK, th-TH, id-ID
+  [S:G62PCVQ1P] Good Bye, Dragon Life (Season: 1) [SIMULCAST, SUB, DUB]
+    - Versions: hi, ta-IN, te-IN, ja
+    - Subtitles: en, es-419, es-ES, pt-BR, fr, de, ar, it, ru, zh-HK, th-TH, id-ID
+[E1] Good Bye, Dragon Life - Season 1 - Goodbye, Dragon Life [☆ Japanese, ☆ Hindi, ☆ Tamil (India), ☆ Telugu (India)]
+[E2] Good Bye, Dragon Life - Season 1 - A New Friend [☆ Japanese, ☆ Hindi, ☆ Tamil (India), ☆ Telugu (India)]
+[E3] Good Bye, Dragon Life - Season 1 - The Knight Girl [☆ Japanese, ☆ Hindi, ☆ Tamil (India), ☆ Telugu (India)]
+[E4] Good Bye, Dragon Life - Season 1 - A Witch [☆ Japanese, ☆ Tamil (India), ☆ Hindi, ☆ Telugu (India)]
+[E5] Good Bye, Dragon Life - Season 1 - The Forest of Ente [☆ Japanese, ☆ Hindi, ☆ Tamil (India), ☆ Telugu (India)]
+[E6] Good Bye, Dragon Life - Season 1 - Visitors from the Dark [☆ Japanese, ☆ Hindi, ☆ Tamil (India), ☆ Telugu (India)]
+[E7] Good Bye, Dragon Life - Season 1 - Melee [☆ Japanese, ☆ Hindi, ☆ Tamil (India), ☆ Telugu (India)]
+[E8] Good Bye, Dragon Life - Season 1 - The Night Before the Battle [☆ Japanese, ☆ Hindi, ☆ Telugu (India), ☆ Tamil (India)]
+[E9] Good Bye, Dragon Life - Season 1 - The Battle of the Demonic Realm Portal [☆ Japanese, ☆ Hindi, ☆ Tamil (India), ☆ Telugu (India)]
+[E10] Good Bye, Dragon Life - Season 1 - Decisive Battle [☆ Japanese, ☆ Hindi, ☆ Tamil (India), ☆ Telugu (India)]
+[E11] Good Bye, Dragon Life - Season 1 - The People Saying Goodbye [☆ Japanese, ☆ Hindi, ☆ Tamil (India), ☆ Telugu (India)]
+[E12] Good Bye, Dragon Life - Season 1 - Hello, Human Life [☆ Japanese, ☆ Telugu (India), ☆ Hindi, ☆ Tamil (India)]
+
+------------------------------
+

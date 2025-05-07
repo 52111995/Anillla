@@ -1,0 +1,254 @@
+
+=== Multi Downloader NX 5.3.4 ===
+
+[ERROR] [ERROR] YAMLParseError: Invalid escape sequence \Users\run at line 2, column 14:
+
+mkvmerge: "C:\Users\runneradmin\Downloads\multi-downloader-nx-windows-x64-gui\m…
+             ^
+
+    at /snapshot/_builds/index.cjs
+    at _onError (/snapshot/_builds/index.cjs)
+    at parseCharCode (/snapshot/_builds/index.cjs)
+    at doubleQuotedValue (/snapshot/_builds/index.cjs)
+    at Object.resolveFlowScalar (/snapshot/_builds/index.cjs)
+    at Object.composeScalar (/snapshot/_builds/index.cjs)
+    at composeNode (/snapshot/_builds/index.cjs)
+    at Object.resolveBlockMap (/snapshot/_builds/index.cjs)
+    at resolveCollection (/snapshot/_builds/index.cjs)
+    at Object.composeCollection (/snapshot/_builds/index.cjs) {
+  code: 'BAD_DQ_ESCAPE',
+  pos: [ 63, 64 ],
+  linePos: [ { line: 2, col: 14 }, { line: 2, col: 15 } ]
+}
+USER: SeaKyuSee (stevendo49@yahoo.com)
+Your Country: GB
+
+[Z:GEXH3W22Z] I'm Getting Married to a Girl I Hate in My Class (Seasons: 1, EPs: 12) [SIMULCAST, SUB, DUB]
+  - Subtitles: en, es-419, es-ES, pt-BR, fr, de, ar, it, ru
+  [S:G6GGCVGQ7] I'm Getting Married to a Girl I Hate in My Class (Season: 1) [SIMULCAST, SUB, DUB]
+    - Versions: hi, ta-IN, te-IN, ja
+    - Subtitles: en, es-419, es-ES, pt-BR, fr, de, ar, it, ru
+[E1] I'm Getting Married to a Girl I Hate in My Class - Season 1 - I'm Getting Married to a Girl I Hate in My Class [☆ Japanese, ☆ Hindi, ☆ Tamil (India), ☆ Telugu (India)]
+[E2] I'm Getting Married to a Girl I Hate in My Class - Season 1 - A New Life [☆ Japanese, ☆ Telugu (India), ☆ Tamil (India), ☆ Hindi]
+[E3] I'm Getting Married to a Girl I Hate in My Class - Season 1 - My Wife [☆ Japanese, ☆ Hindi, ☆ Tamil (India), ☆ Telugu (India)]
+[E4] I'm Getting Married to a Girl I Hate in My Class - Season 1 - Night Attack [☆ Japanese, ☆ Hindi, ☆ Tamil (India), ☆ Telugu (India)]
+[E5] I'm Getting Married to a Girl I Hate in My Class - Season 1 - I Won't Lose [☆ Japanese, ☆ Hindi, ☆ Telugu (India), ☆ Tamil (India)]
+[E6] I'm Getting Married to a Girl I Hate in My Class - Season 1 - Newlywed's First Date [☆ Japanese, ☆ Hindi, ☆ Telugu (India), ☆ Tamil (India)]
+[E7] I'm Getting Married to a Girl I Hate in My Class - Season 1 - The Ring [☆ Japanese, ☆ Hindi, ☆ Tamil (India), ☆ Telugu (India)]
+[E8] I'm Getting Married to a Girl I Hate in My Class - Season 1 - Senpai [☆ Japanese, ☆ Hindi, ☆ Tamil (India), ☆ Telugu (India)]
+[E9] I'm Getting Married to a Girl I Hate in My Class - Season 1 - Little Sister's Heartache [☆ Japanese, ☆ Hindi, ☆ Tamil (India), ☆ Telugu (India)]
+[E10] I'm Getting Married to a Girl I Hate in My Class - Season 1 - Girlfriend (Tentative) [☆ Japanese, ☆ Hindi, ☆ Tamil (India), ☆ Telugu (India)]
+[E11] I'm Getting Married to a Girl I Hate in My Class - Season 1 - Voice [☆ Japanese, ☆ Hindi, ☆ Tamil (India), ☆ Telugu (India)]
+[E12] I'm Getting Married to a Girl I Hate in My Class - Season 1 - I'm Getting Married to a Guy I Hate in My Class [☆ Japanese]
+
+------------------------------
+
+[S1E10] - Girlfriend (Tentative) [✓ Japanese, ✓ Hindi]
+Requesting: [GJWUQ7QPV] I'm Getting Married to a Girl I Hate in My Class - 10 - Girlfriend (Tentative)
+Chapter request successful
+Selecting raw stream
+Full stream found! (✓1: adaptive_chrome_dash_drm/jpn/- )
+Downloading video...
+Playlists URL: https://cr-play-service.prd.crunchyrollsvc.com/v1/manifest/GJWUQ7QPV/evs3/a4ad2bf06f774cd8ae02a3439f87a39c/assets/p/83a5bbabfb06bbdf7ada0a48e4da981b_,5945005.mp4,5945006.mp4,5945004.mp4,5945002.mp4,5945003.mp4,.urlset/manifest.mpd?playbackGuid=08-871f2fca-e532-4881-8cf5-2e4653ddfa4f&accountid=002b65fd-e5ba-5a1d-8c52-1d070553ddf5 (adaptive_chrome_dash_drm/jpn/-)
+Servers available:
+	a-vrv.akamaized.net
+Available Video Qualities:
+	[1] 428x240 (486KiB/s)
+	[2] 640x360 (973KiB/s)
+	[3] 848x480 (1942KiB/s)
+	[4] 1280x720 (3896KiB/s)
+	[5] 1920x1080 (7806KiB/s)
+Available Audio Qualities:
+	[1] 64kB/s
+	[2] 96kB/s
+	[3] 128kB/s
+Selected quality: 
+	Video: 428x240 (486KiB/s)
+	Audio: 64kB/s
+	Server: a-vrv.akamaized.net
+Stream URL: https://a-vrv.akamaized.net/evs3/a4ad2bf06f774cd8ae02a3439f87a39c/assets/p/83a5bbabfb06bbdf7ada0a48e4da981b_,5945005.mp4,5945006.mp4,5945004.mp4,5945002.mp4,5945003.mp4
+Total parts in video stream: 354 (36*10)
+Saving stream to «/workspaces/andlrcobt/Anidl/videos/temp-GJWUQ7QPV.video.enc.m4s»...
+Download and save init part...
+Init part downloaded.
+10 of 354 parts downloaded [3%] (13s | 7.1Mb/s)
+20 of 354 parts downloaded [6%] (14s | 7.3Mb/s)
+30 of 354 parts downloaded [8%] (15s | 6.5Mb/s)
+40 of 354 parts downloaded [11%] (13s | 7.6Mb/s)
+50 of 354 parts downloaded [14%] (12s | 7.9Mb/s)
+60 of 354 parts downloaded [17%] (11s | 8.4Mb/s)
+70 of 354 parts downloaded [20%] (10s | 8.6Mb/s)
+80 of 354 parts downloaded [23%] (9s | 9.0Mb/s)
+90 of 354 parts downloaded [25%] (8s | 9.5Mb/s)
+100 of 354 parts downloaded [28%] (8s | 9.6Mb/s)
+110 of 354 parts downloaded [31%] (7s | 9.4Mb/s)
+120 of 354 parts downloaded [34%] (7s | 9.7Mb/s)
+130 of 354 parts downloaded [37%] (7s | 9.5Mb/s)
+140 of 354 parts downloaded [40%] (6s | 9.4Mb/s)
+150 of 354 parts downloaded [42%] (6s | 9.6Mb/s)
+160 of 354 parts downloaded [45%] (6s | 9.3Mb/s)
+170 of 354 parts downloaded [48%] (5s | 9.3Mb/s)
+180 of 354 parts downloaded [51%] (5s | 9.2Mb/s)
+190 of 354 parts downloaded [54%] (5s | 9.2Mb/s)
+200 of 354 parts downloaded [56%] (4s | 9.1Mb/s)
+210 of 354 parts downloaded [59%] (4s | 9.3Mb/s)
+220 of 354 parts downloaded [62%] (4s | 9.3Mb/s)
+230 of 354 parts downloaded [65%] (3s | 9.4Mb/s)
+240 of 354 parts downloaded [68%] (3s | 9.6Mb/s)
+250 of 354 parts downloaded [71%] (3s | 9.7Mb/s)
+260 of 354 parts downloaded [73%] (3s | 9.6Mb/s)
+270 of 354 parts downloaded [76%] (2s | 9.4Mb/s)
+280 of 354 parts downloaded [79%] (2s | 9.4Mb/s)
+290 of 354 parts downloaded [82%] (2s | 9.3Mb/s)
+300 of 354 parts downloaded [85%] (1s | 9.1Mb/s)
+310 of 354 parts downloaded [88%] (1s | 8.9Mb/s)
+320 of 354 parts downloaded [90%] (1s | 8.8Mb/s)
+330 of 354 parts downloaded [93%] (1s | 8.7Mb/s)
+340 of 354 parts downloaded [96%] (0s | 8.8Mb/s)
+350 of 354 parts downloaded [99%] (0s | 8.8Mb/s)
+354 of 354 parts downloaded [100%] (0s | 8.8Mb/s)
+Total parts in audio stream: 355 (36*10)
+Saving stream to «/workspaces/andlrcobt/Anidl/videos/temp-GJWUQ7QPV.audio.enc.m4s»...
+Download and save init part...
+Init part downloaded.
+10 of 355 parts downloaded [3%] (13s | 0.90Mb/s)
+20 of 355 parts downloaded [6%] (12s | 0.91Mb/s)
+30 of 355 parts downloaded [8%] (10s | 1.1Mb/s)
+40 of 355 parts downloaded [11%] (14s | 0.73Mb/s)
+50 of 355 parts downloaded [14%] (14s | 0.76Mb/s)
+60 of 355 parts downloaded [17%] (13s | 0.78Mb/s)
+70 of 355 parts downloaded [20%] (12s | 0.83Mb/s)
+80 of 355 parts downloaded [23%] (11s | 0.84Mb/s)
+90 of 355 parts downloaded [25%] (11s | 0.81Mb/s)
+100 of 355 parts downloaded [28%] (11s | 0.79Mb/s)
+110 of 355 parts downloaded [31%] (10s | 0.83Mb/s)
+120 of 355 parts downloaded [34%] (9s | 0.85Mb/s)
+130 of 355 parts downloaded [37%] (9s | 0.85Mb/s)
+140 of 355 parts downloaded [39%] (9s | 0.84Mb/s)
+150 of 355 parts downloaded [42%] (8s | 0.85Mb/s)
+160 of 355 parts downloaded [45%] (8s | 0.86Mb/s)
+170 of 355 parts downloaded [48%] (7s | 0.88Mb/s)
+180 of 355 parts downloaded [51%] (7s | 0.89Mb/s)
+190 of 355 parts downloaded [54%] (6s | 0.91Mb/s)
+200 of 355 parts downloaded [56%] (6s | 0.93Mb/s)
+210 of 355 parts downloaded [59%] (5s | 0.94Mb/s)
+220 of 355 parts downloaded [62%] (5s | 0.94Mb/s)
+230 of 355 parts downloaded [65%] (4s | 0.96Mb/s)
+240 of 355 parts downloaded [68%] (4s | 0.96Mb/s)
+250 of 355 parts downloaded [70%] (4s | 0.95Mb/s)
+260 of 355 parts downloaded [73%] (3s | 0.98Mb/s)
+270 of 355 parts downloaded [76%] (3s | 0.99Mb/s)
+280 of 355 parts downloaded [79%] (3s | 1.0Mb/s)
+290 of 355 parts downloaded [82%] (2s | 1.0Mb/s)
+300 of 355 parts downloaded [85%] (2s | 1.0Mb/s)
+310 of 355 parts downloaded [87%] (1s | 1.0Mb/s)
+320 of 355 parts downloaded [90%] (1s | 1.0Mb/s)
+330 of 355 parts downloaded [93%] (1s | 1.0Mb/s)
+340 of 355 parts downloaded [96%] (0s | 1.0Mb/s)
+350 of 355 parts downloaded [99%] (0s | 1.0Mb/s)
+355 of 355 parts downloaded [100%] (0s | 1.0Mb/s)
+Decryption Needed, attempting to decrypt
+Started decrypting video, using mp4decrypt
+
+> "mp4decrypt" --show-progress --key 50d8d3e63294350299ca24ebc6c37665:8efc603c4eeed4ba8242c3c15f3077a7 "/workspaces/andlrcobt/Anidl/videos/temp-GJWUQ7QPV.video.enc.m4s" "/workspaces/andlrcobt/Anidl/videos/temp-GJWUQ7QPV.video.m4s"
+Decryption done for video
+Started decrypting audio, using mp4decrypt
+
+> "mp4decrypt" --show-progress --key 50d8d3e63294350299ca24ebc6c37665:8efc603c4eeed4ba8242c3c15f3077a7 "/workspaces/andlrcobt/Anidl/videos/temp-GJWUQ7QPV.audio.enc.m4s" "/workspaces/andlrcobt/Anidl/videos/temp-GJWUQ7QPV.audio.m4s"
+Decryption done for audio
+Subtitle downloaded: [CR] I'm Getting Married to a Girl I Hate in My Class - S01E10 [240p].01.eng.English.ass
+Requesting: [GJWUQ7QPV] I'm Getting Married to a Girl I Hate in My Class - 10 - Girlfriend (Tentative)
+Chapter request successful
+Selecting raw stream
+Full stream found! (✓1: adaptive_chrome_dash_drm/hin/- )
+Downloading video...
+Playlists URL: https://cr-play-service.prd.crunchyrollsvc.com/v1/manifest/GX9U3M088/evs3/920450efbee746db9a7a995684489b89/assets/p/b86a47e6065ce1f71100cef22ee8a923_,6023583.mp4,6023584.mp4,6023582.mp4,6023580.mp4,6023581.mp4,.urlset/manifest.mpd?playbackGuid=08-4c9daca8-e831-4841-b305-377a2d2a1f0e&accountid=002b65fd-e5ba-5a1d-8c52-1d070553ddf5 (adaptive_chrome_dash_drm/hin/-)
+Servers available:
+	v.vrv.co
+Available Video Qualities:
+	[1] 428x240 (486KiB/s)
+	[2] 640x360 (973KiB/s)
+	[3] 848x480 (1945KiB/s)
+	[4] 1280x720 (3897KiB/s)
+	[5] 1920x1080 (7796KiB/s)
+Available Audio Qualities:
+	[1] 64kB/s
+	[2] 96kB/s
+	[3] 128kB/s
+Selected quality: 
+	Video: 428x240 (486KiB/s)
+	Audio: 64kB/s
+	Server: v.vrv.co
+Stream URL: https://v.vrv.co/evs3/920450efbee746db9a7a995684489b89/assets/p/b86a47e6065ce1f71100cef22ee8a923_,6023583.mp4,6023584.mp4,6023582.mp4,6023580.mp4,6023581.mp4
+Already downloaded video, skipping video download...
+Total parts in audio stream: 355 (36*10)
+Saving stream to «/workspaces/andlrcobt/Anidl/videos/temp-GX9U3M088.audio.enc.m4s»...
+Download and save init part...
+Init part downloaded.
+10 of 355 parts downloaded [3%] (17s | 0.70Mb/s)
+20 of 355 parts downloaded [6%] (12s | 0.91Mb/s)
+30 of 355 parts downloaded [8%] (11s | 1.0Mb/s)
+40 of 355 parts downloaded [11%] (10s | 1.1Mb/s)
+50 of 355 parts downloaded [14%] (9s | 1.1Mb/s)
+60 of 355 parts downloaded [17%] (9s | 1.2Mb/s)
+70 of 355 parts downloaded [20%] (9s | 1.1Mb/s)
+80 of 355 parts downloaded [23%] (8s | 1.1Mb/s)
+90 of 355 parts downloaded [25%] (8s | 1.1Mb/s)
+100 of 355 parts downloaded [28%] (8s | 1.1Mb/s)
+110 of 355 parts downloaded [31%] (8s | 1.1Mb/s)
+120 of 355 parts downloaded [34%] (7s | 1.1Mb/s)
+130 of 355 parts downloaded [37%] (7s | 1.1Mb/s)
+140 of 355 parts downloaded [39%] (7s | 1.1Mb/s)
+150 of 355 parts downloaded [42%] (6s | 1.1Mb/s)
+160 of 355 parts downloaded [45%] (6s | 1.1Mb/s)
+170 of 355 parts downloaded [48%] (6s | 1.1Mb/s)
+180 of 355 parts downloaded [51%] (5s | 1.1Mb/s)
+190 of 355 parts downloaded [54%] (5s | 1.1Mb/s)
+200 of 355 parts downloaded [56%] (5s | 1.1Mb/s)
+210 of 355 parts downloaded [59%] (4s | 1.1Mb/s)
+220 of 355 parts downloaded [62%] (4s | 1.1Mb/s)
+230 of 355 parts downloaded [65%] (4s | 1.1Mb/s)
+240 of 355 parts downloaded [68%] (3s | 1.1Mb/s)
+250 of 355 parts downloaded [70%] (3s | 1.1Mb/s)
+260 of 355 parts downloaded [73%] (3s | 1.1Mb/s)
+270 of 355 parts downloaded [76%] (2s | 1.1Mb/s)
+280 of 355 parts downloaded [79%] (2s | 1.2Mb/s)
+290 of 355 parts downloaded [82%] (2s | 1.2Mb/s)
+300 of 355 parts downloaded [85%] (2s | 1.2Mb/s)
+310 of 355 parts downloaded [87%] (1s | 1.2Mb/s)
+320 of 355 parts downloaded [90%] (1s | 1.2Mb/s)
+330 of 355 parts downloaded [93%] (1s | 1.2Mb/s)
+340 of 355 parts downloaded [96%] (0s | 1.2Mb/s)
+350 of 355 parts downloaded [99%] (0s | 1.2Mb/s)
+355 of 355 parts downloaded [100%] (0s | 1.2Mb/s)
+Decryption Needed, attempting to decrypt
+Started decrypting audio, using mp4decrypt
+
+> "mp4decrypt" --show-progress --key 3e3d2a6b1cd834388e381e9b7795bd68:f2cd189f41d90b22e652b772d22c2db5 "/workspaces/andlrcobt/Anidl/videos/temp-GX9U3M088.audio.enc.m4s" "/workspaces/andlrcobt/Anidl/videos/temp-GX9U3M088.audio.m4s"
+Decryption done for audio
+[ERROR] [ERROR] YAMLParseError: Invalid escape sequence \Users\run at line 2, column 14:
+
+mkvmerge: "C:\Users\runneradmin\Downloads\multi-downloader-nx-windows-x64-gui\m…
+             ^
+
+    at /snapshot/_builds/index.cjs
+    at _onError (/snapshot/_builds/index.cjs)
+    at parseCharCode (/snapshot/_builds/index.cjs)
+    at doubleQuotedValue (/snapshot/_builds/index.cjs)
+    at Object.resolveFlowScalar (/snapshot/_builds/index.cjs)
+    at Object.composeScalar (/snapshot/_builds/index.cjs)
+    at composeNode (/snapshot/_builds/index.cjs)
+    at Object.resolveBlockMap (/snapshot/_builds/index.cjs)
+    at resolveCollection (/snapshot/_builds/index.cjs)
+    at Object.composeCollection (/snapshot/_builds/index.cjs) {
+  code: 'BAD_DQ_ESCAPE',
+  pos: [ 63, 64 ],
+  linePos: [ { line: 2, col: 14 }, { line: 2, col: 15 } ]
+}
+
+Subtitles: en (Total: 1)
+Required fonts: Trebuchet MS, Arial, Times New Roman, Verdana, Georgia, Impact (Total: 6)
+[mkvmerge] Started merging
+
+> "mkvmerge" -o "/workspaces/andlrcobt/Anidl/videos/[CR] I'm Getting Married to a Girl I Hate in My Class - S01E10 [240p].mkv" --no-date --disable-track-statistics-tags --engage no_variable_data --video-tracks 0 --no-audio --track-name 0:"Japanese [Uncut]" --language 0:jpn "/workspaces/andlrcobt/Anidl/videos/[CR] I'm Getting Married to a Girl I Hate in My Class - S01E10 [240p].Japanese.video.m4s" --track-name 0:"Japanese" --language 0:jpn --no-video --audio-tracks 0 --default-track 0:0 "/workspaces/andlrcobt/Anidl/videos/[CR] I'm Getting Married to a Girl I Hate in My Class - S01E10 [240p].Japanese.audio.m4s" --track-name 0:"Hindi" --language 0:hin --no-video --audio-tracks 0 --default-track 0 "/workspaces/andlrcobt/Anidl/videos/[CR] I'm Getting Married to a Girl I Hate in My Class - S01E10 [240p].Hindi.audio.m4s" --track-name 0:"English" --language 0:"eng" --default-track 0 "/workspaces/andlrcobt/Anidl/videos/[CR] I'm Getting Married to a Girl I Hate in My Class - S01E10 [240p].01.eng.English.ass" --no-attachments --chapters "/workspaces/andlrcobt/Anidl/videos/[CR] I'm Getting Married to a Girl I Hate in My Class - S01E10 [240p].Japanese.txt"
+[mkvmerge Done]
